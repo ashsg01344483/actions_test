@@ -1,0 +1,19 @@
+{
+  "name": "actions_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ashsg01344483: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@github.com/ashsg01344483/actions_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashsg01344483/actions_test/issues"
+  },
+  "homepage": "https://github.com/ashsg01344483/actions_test#readme"
+}
